@@ -50,6 +50,12 @@ ul li {
     font-size: 1rem;
 }
 
+h3 {
+    font-size: 1.3rem;
+    color: #555;
+    margin: 0;
+}
+
 footer {
     background-color: #ffb6c1;
     padding: 10px 20px;
